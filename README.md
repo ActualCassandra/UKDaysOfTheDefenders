@@ -18,7 +18,7 @@ Those with a basic understanding of Microsoft 365 and Azure products and who fun
 
 
 ## Registration Link(s)
-1. [Part 1](https://aka.ms/UKDaysOfTheDefendersP1-Reg)
+1. [Part 1](https://aka.ms/UKDaysOfTheDefendersP1-Reg) THIS is recursive atm
 
 ## Agenda
 
