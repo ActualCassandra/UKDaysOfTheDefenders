@@ -1,4 +1,4 @@
-# UKDaysOfTheDefenders
+# Microsoft UK Partner Event - Days of the Defenders
 Welcome to the Github repository for the UK Security Partner event - Days of the Defenders.
 
 ## Date and times
