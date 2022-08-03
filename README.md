@@ -34,7 +34,7 @@ Those with a basic understanding of Microsoft 365 and Azure products and who fun
  - Sentinel Concepts – KQL, Threat Hunting and Incidents
  - Sentinel Scenario Discussion - When and how to pitch Sentinel
  - Capture the Flag!
- -
+ 
 ## Other Event Information
 We have limited spaces - seats will be first come, first serve and we will limit too many seats to individual partners.
 
