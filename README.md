@@ -2,7 +2,7 @@
 Welcome to the Github repository for the UK Security Partner event - Days of the Defenders.
 
 ## Date and times
-***06-07 October 2022 at Microsoft's UK HQ - Thames Valley Park, Reading!. Running from 0900-1600 both days.***
+***05-06 October 2022 at Microsoft's UK HQ - Thames Valley Park, Reading!. Running from 0900-1600 both days.***
 
 ## Event Overview
 Over two days, Microsoft security architects will offer a fast-paced, demo-intensive experience designed to ground attendees in the latest Microsoft security tools. It will also equip you with the knowledge and tools to successfully have security discussions with your customers.
@@ -19,7 +19,7 @@ Those with a basic understanding of Microsoft 365 and Azure products and who fun
 
 
 ## Registration Link(s)
-1. [Days of the Defenders UK Registration Link](https://aka.ms/UKDaysOfTheDefendersP1-Reg) *Currently recursive*
+1. [Days of the Defenders UK Registration Link](https://aka.ms/UKDaysOfTheDefendersP1-Reg) 
 
 ## Agenda
 **Day 1**
