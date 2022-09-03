@@ -19,7 +19,7 @@ Those with a basic understanding of Microsoft 365 and Azure products and who fun
 
 
 ## Registration Link(s)
-1. [Days of the Defenders UK Registration Link](https://aka.ms/UKDaysOfTheDefendersP1-Reg) 
+1. [Days of the Defenders UK Registration Link](https://aka.ms/UKDaysOfTheDefendersP1-Reg) ***FULL***
 
 ## Agenda
 **Day 1**
@@ -31,12 +31,14 @@ Those with a basic understanding of Microsoft 365 and Azure products and who fun
 **Day 2**
  - Sentinel Concepts - Architecture in the Customer 
  - Sentinel Concepts - Data Ingestion: Connectors and More!
- - Sentinel Concepts – KQL, Threat Hunting and Incidents
+ - Sentinel Concepts - KQL, Threat Hunting and Incidents
  - Sentinel Scenario Discussion - When and how to pitch Sentinel
  - Capture the Flag!
  
 ## Other Event Information
 We have limited spaces - seats will be first come, first serve and we will limit too many seats to individual partners.
+
+Additional sessions will be run in the future.
 
 ## Learning and Training Resources
 1. [What is Microsoft 365 Defender?](https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender)
